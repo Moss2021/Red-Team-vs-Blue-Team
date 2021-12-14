@@ -6,4 +6,4 @@ As the Red Team, I did attack a vulnerable VM in the environment, ultimately gai
 
 Then, used my log data to suggest mitigation measures for each exploit successfully performed.
 
-Please enjoy the presentation!
+Please enjoy Project II presentation!
